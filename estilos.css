@@ -84,3 +84,7 @@ footer{
     padding: 20px;
     color: #666666;
 }
+.dashboard-container {
+    display: flex; /* Alinha Menu e Main lado a lado */
+    flex: 1;       /* ESTICA para ocupar o espaço e empurrar o rodapé */
+}
